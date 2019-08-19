@@ -1,0 +1,6 @@
+C:\Sanjay\VS-2019\VS-15\MVC\MVCDemo\TestConsoleApp\bin\Debug\TestConsoleApp.exe.config
+C:\Sanjay\VS-2019\VS-15\MVC\MVCDemo\TestConsoleApp\bin\Debug\TestConsoleApp.exe
+C:\Sanjay\VS-2019\VS-15\MVC\MVCDemo\TestConsoleApp\bin\Debug\TestConsoleApp.pdb
+C:\Sanjay\VS-2019\VS-15\MVC\MVCDemo\TestConsoleApp\obj\Debug\TestConsoleApp.csprojResolveAssemblyReference.cache
+C:\Sanjay\VS-2019\VS-15\MVC\MVCDemo\TestConsoleApp\obj\Debug\TestConsoleApp.exe
+C:\Sanjay\VS-2019\VS-15\MVC\MVCDemo\TestConsoleApp\obj\Debug\TestConsoleApp.pdb

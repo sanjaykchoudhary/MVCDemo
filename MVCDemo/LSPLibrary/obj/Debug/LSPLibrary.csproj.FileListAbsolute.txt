@@ -1,0 +1,10 @@
+C:\Sanjay\VS\VS-15\MVC\MVCDemo\LSPLibrary\bin\Debug\LSPLibrary.dll
+C:\Sanjay\VS\VS-15\MVC\MVCDemo\LSPLibrary\bin\Debug\LSPLibrary.pdb
+C:\Sanjay\VS\VS-15\MVC\MVCDemo\LSPLibrary\obj\Debug\LSPLibrary.csprojResolveAssemblyReference.cache
+C:\Sanjay\VS\VS-15\MVC\MVCDemo\LSPLibrary\obj\Debug\LSPLibrary.dll
+C:\Sanjay\VS\VS-15\MVC\MVCDemo\LSPLibrary\obj\Debug\LSPLibrary.pdb
+C:\Sanjay\VS-2019\VS-15\MVC\MVCDemo\LSPLibrary\bin\Debug\LSPLibrary.dll
+C:\Sanjay\VS-2019\VS-15\MVC\MVCDemo\LSPLibrary\bin\Debug\LSPLibrary.pdb
+C:\Sanjay\VS-2019\VS-15\MVC\MVCDemo\LSPLibrary\obj\Debug\LSPLibrary.csprojResolveAssemblyReference.cache
+C:\Sanjay\VS-2019\VS-15\MVC\MVCDemo\LSPLibrary\obj\Debug\LSPLibrary.dll
+C:\Sanjay\VS-2019\VS-15\MVC\MVCDemo\LSPLibrary\obj\Debug\LSPLibrary.pdb

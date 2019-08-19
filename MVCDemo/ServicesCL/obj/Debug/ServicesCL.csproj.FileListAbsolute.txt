@@ -1,0 +1,14 @@
+C:\Sanjay\VS\VS-15\MVC\MVCDemo\ServicesCL\bin\Debug\ServicesCL.dll
+C:\Sanjay\VS\VS-15\MVC\MVCDemo\ServicesCL\bin\Debug\ServicesCL.pdb
+C:\Sanjay\VS\VS-15\MVC\MVCDemo\ServicesCL\bin\Debug\EntitiesCL.dll
+C:\Sanjay\VS\VS-15\MVC\MVCDemo\ServicesCL\bin\Debug\EntitiesCL.pdb
+C:\Sanjay\VS\VS-15\MVC\MVCDemo\ServicesCL\obj\Debug\ServicesCL.csprojResolveAssemblyReference.cache
+C:\Sanjay\VS\VS-15\MVC\MVCDemo\ServicesCL\obj\Debug\ServicesCL.dll
+C:\Sanjay\VS\VS-15\MVC\MVCDemo\ServicesCL\obj\Debug\ServicesCL.pdb
+C:\Sanjay\VS-2019\VS-15\MVC\MVCDemo\ServicesCL\bin\Debug\ServicesCL.dll
+C:\Sanjay\VS-2019\VS-15\MVC\MVCDemo\ServicesCL\bin\Debug\ServicesCL.pdb
+C:\Sanjay\VS-2019\VS-15\MVC\MVCDemo\ServicesCL\bin\Debug\EntitiesCL.dll
+C:\Sanjay\VS-2019\VS-15\MVC\MVCDemo\ServicesCL\bin\Debug\EntitiesCL.pdb
+C:\Sanjay\VS-2019\VS-15\MVC\MVCDemo\ServicesCL\obj\Debug\ServicesCL.csprojResolveAssemblyReference.cache
+C:\Sanjay\VS-2019\VS-15\MVC\MVCDemo\ServicesCL\obj\Debug\ServicesCL.dll
+C:\Sanjay\VS-2019\VS-15\MVC\MVCDemo\ServicesCL\obj\Debug\ServicesCL.pdb

@@ -1,0 +1,10 @@
+C:\Sanjay\VS\VS-15\MVC\MVCDemo\EntitiesCL\bin\Debug\EntitiesCL.dll
+C:\Sanjay\VS\VS-15\MVC\MVCDemo\EntitiesCL\bin\Debug\EntitiesCL.pdb
+C:\Sanjay\VS\VS-15\MVC\MVCDemo\EntitiesCL\obj\Debug\EntitiesCL.csprojResolveAssemblyReference.cache
+C:\Sanjay\VS\VS-15\MVC\MVCDemo\EntitiesCL\obj\Debug\EntitiesCL.dll
+C:\Sanjay\VS\VS-15\MVC\MVCDemo\EntitiesCL\obj\Debug\EntitiesCL.pdb
+C:\Sanjay\VS-2019\VS-15\MVC\MVCDemo\EntitiesCL\bin\Debug\EntitiesCL.dll
+C:\Sanjay\VS-2019\VS-15\MVC\MVCDemo\EntitiesCL\bin\Debug\EntitiesCL.pdb
+C:\Sanjay\VS-2019\VS-15\MVC\MVCDemo\EntitiesCL\obj\Debug\EntitiesCL.csprojResolveAssemblyReference.cache
+C:\Sanjay\VS-2019\VS-15\MVC\MVCDemo\EntitiesCL\obj\Debug\EntitiesCL.dll
+C:\Sanjay\VS-2019\VS-15\MVC\MVCDemo\EntitiesCL\obj\Debug\EntitiesCL.pdb

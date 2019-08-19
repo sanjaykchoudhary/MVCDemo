@@ -1,0 +1,5 @@
+C:\Sanjay\VS-2019\VS-15\MVC\MVCDemo\AbstractFactoryDesignMobile\bin\Debug\AbstractFactoryDesignMobile.exe.config
+C:\Sanjay\VS-2019\VS-15\MVC\MVCDemo\AbstractFactoryDesignMobile\bin\Debug\AbstractFactoryDesignMobile.exe
+C:\Sanjay\VS-2019\VS-15\MVC\MVCDemo\AbstractFactoryDesignMobile\bin\Debug\AbstractFactoryDesignMobile.pdb
+C:\Sanjay\VS-2019\VS-15\MVC\MVCDemo\AbstractFactoryDesignMobile\obj\Debug\AbstractFactoryDesignMobile.exe
+C:\Sanjay\VS-2019\VS-15\MVC\MVCDemo\AbstractFactoryDesignMobile\obj\Debug\AbstractFactoryDesignMobile.pdb

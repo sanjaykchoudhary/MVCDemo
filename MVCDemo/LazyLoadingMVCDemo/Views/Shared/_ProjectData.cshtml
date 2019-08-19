@@ -1,0 +1,11 @@
+﻿@model List<LazyLoadingMVCDemo.Models.Project>
+
+@foreach(var cust in Model)
+{
+    <tr>
+        <td>@cust.ID</td>
+        <td>@cust.Name</td>
+        <td>@cust.Managername</td>
+        <td>@cust.Email</td>
+    </tr>
+}

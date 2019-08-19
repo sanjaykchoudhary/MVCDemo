@@ -1,0 +1,6 @@
+C:\Sanjay\VS-2019\VS-15\MVC\MVCDemo\BinaryFileOp\bin\Debug\BinaryFileOp.exe.config
+C:\Sanjay\VS-2019\VS-15\MVC\MVCDemo\BinaryFileOp\bin\Debug\BinaryFileOp.exe
+C:\Sanjay\VS-2019\VS-15\MVC\MVCDemo\BinaryFileOp\bin\Debug\BinaryFileOp.pdb
+C:\Sanjay\VS-2019\VS-15\MVC\MVCDemo\BinaryFileOp\obj\Debug\BinaryFileOp.csprojResolveAssemblyReference.cache
+C:\Sanjay\VS-2019\VS-15\MVC\MVCDemo\BinaryFileOp\obj\Debug\BinaryFileOp.exe
+C:\Sanjay\VS-2019\VS-15\MVC\MVCDemo\BinaryFileOp\obj\Debug\BinaryFileOp.pdb

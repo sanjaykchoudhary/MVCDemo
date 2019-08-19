@@ -1,0 +1,6 @@
+C:\Sanjay\VS-2019\VS-15\MVC\MVCDemo\CSConcept\bin\Debug\CSConcept.exe.config
+C:\Sanjay\VS-2019\VS-15\MVC\MVCDemo\CSConcept\bin\Debug\CSConcept.exe
+C:\Sanjay\VS-2019\VS-15\MVC\MVCDemo\CSConcept\bin\Debug\CSConcept.pdb
+C:\Sanjay\VS-2019\VS-15\MVC\MVCDemo\CSConcept\obj\Debug\CSConcept.csprojResolveAssemblyReference.cache
+C:\Sanjay\VS-2019\VS-15\MVC\MVCDemo\CSConcept\obj\Debug\CSConcept.exe
+C:\Sanjay\VS-2019\VS-15\MVC\MVCDemo\CSConcept\obj\Debug\CSConcept.pdb

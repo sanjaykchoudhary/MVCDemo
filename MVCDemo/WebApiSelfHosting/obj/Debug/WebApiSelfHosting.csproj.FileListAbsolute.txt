@@ -1,0 +1,14 @@
+C:\Sanjay\VS-2019\VS-15\MVC\MVCDemo\WebApiSelfHosting\bin\Debug\WebApiSelfHosting.exe.config
+C:\Sanjay\VS-2019\VS-15\MVC\MVCDemo\WebApiSelfHosting\bin\Debug\WebApiSelfHosting.exe
+C:\Sanjay\VS-2019\VS-15\MVC\MVCDemo\WebApiSelfHosting\bin\Debug\WebApiSelfHosting.pdb
+C:\Sanjay\VS-2019\VS-15\MVC\MVCDemo\WebApiSelfHosting\bin\Debug\Newtonsoft.Json.dll
+C:\Sanjay\VS-2019\VS-15\MVC\MVCDemo\WebApiSelfHosting\bin\Debug\System.Net.Http.Formatting.dll
+C:\Sanjay\VS-2019\VS-15\MVC\MVCDemo\WebApiSelfHosting\bin\Debug\System.Web.Http.dll
+C:\Sanjay\VS-2019\VS-15\MVC\MVCDemo\WebApiSelfHosting\bin\Debug\System.Web.Http.SelfHost.dll
+C:\Sanjay\VS-2019\VS-15\MVC\MVCDemo\WebApiSelfHosting\bin\Debug\Newtonsoft.Json.xml
+C:\Sanjay\VS-2019\VS-15\MVC\MVCDemo\WebApiSelfHosting\bin\Debug\System.Net.Http.Formatting.xml
+C:\Sanjay\VS-2019\VS-15\MVC\MVCDemo\WebApiSelfHosting\bin\Debug\System.Web.Http.xml
+C:\Sanjay\VS-2019\VS-15\MVC\MVCDemo\WebApiSelfHosting\bin\Debug\System.Web.Http.SelfHost.xml
+C:\Sanjay\VS-2019\VS-15\MVC\MVCDemo\WebApiSelfHosting\obj\Debug\WebApiSelfHosting.csprojResolveAssemblyReference.cache
+C:\Sanjay\VS-2019\VS-15\MVC\MVCDemo\WebApiSelfHosting\obj\Debug\WebApiSelfHosting.exe
+C:\Sanjay\VS-2019\VS-15\MVC\MVCDemo\WebApiSelfHosting\obj\Debug\WebApiSelfHosting.pdb

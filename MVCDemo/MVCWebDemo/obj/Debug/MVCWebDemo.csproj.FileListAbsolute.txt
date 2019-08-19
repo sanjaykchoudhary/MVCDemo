@@ -1,0 +1,92 @@
+C:\Program Net\VS\VS-15\MVC\MVCDemo\MVCWebDemo\bin\ApplicationInsights.config
+C:\Program Net\VS\VS-15\MVC\MVCDemo\MVCWebDemo\bin\roslyn\csc.exe
+C:\Program Net\VS\VS-15\MVC\MVCDemo\MVCWebDemo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Program Net\VS\VS-15\MVC\MVCDemo\MVCWebDemo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Program Net\VS\VS-15\MVC\MVCDemo\MVCWebDemo\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Program Net\VS\VS-15\MVC\MVCDemo\MVCWebDemo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Program Net\VS\VS-15\MVC\MVCDemo\MVCWebDemo\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Program Net\VS\VS-15\MVC\MVCDemo\MVCWebDemo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Program Net\VS\VS-15\MVC\MVCDemo\MVCWebDemo\bin\roslyn\System.Collections.Immutable.dll
+C:\Program Net\VS\VS-15\MVC\MVCDemo\MVCWebDemo\bin\roslyn\System.Reflection.Metadata.dll
+C:\Program Net\VS\VS-15\MVC\MVCDemo\MVCWebDemo\bin\roslyn\vbc.exe
+C:\Program Net\VS\VS-15\MVC\MVCDemo\MVCWebDemo\bin\roslyn\VBCSCompiler.exe
+C:\Program Net\VS\VS-15\MVC\MVCDemo\MVCWebDemo\bin\roslyn\VBCSCompiler.exe.config
+C:\Program Net\VS\VS-15\MVC\MVCDemo\MVCWebDemo\bin\MVCWebDemo.dll.config
+C:\Program Net\VS\VS-15\MVC\MVCDemo\MVCWebDemo\bin\MVCWebDemo.dll
+C:\Program Net\VS\VS-15\MVC\MVCDemo\MVCWebDemo\bin\MVCWebDemo.pdb
+C:\Program Net\VS\VS-15\MVC\MVCDemo\MVCWebDemo\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Program Net\VS\VS-15\MVC\MVCDemo\MVCWebDemo\bin\Microsoft.AI.DependencyCollector.dll
+C:\Program Net\VS\VS-15\MVC\MVCDemo\MVCWebDemo\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Program Net\VS\VS-15\MVC\MVCDemo\MVCWebDemo\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Program Net\VS\VS-15\MVC\MVCDemo\MVCWebDemo\bin\Microsoft.AI.Web.dll
+C:\Program Net\VS\VS-15\MVC\MVCDemo\MVCWebDemo\bin\Microsoft.AI.WindowsServer.dll
+C:\Program Net\VS\VS-15\MVC\MVCDemo\MVCWebDemo\bin\Microsoft.ApplicationInsights.dll
+C:\Program Net\VS\VS-15\MVC\MVCDemo\MVCWebDemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Program Net\VS\VS-15\MVC\MVCDemo\MVCWebDemo\bin\Microsoft.Web.Infrastructure.dll
+C:\Program Net\VS\VS-15\MVC\MVCDemo\MVCWebDemo\bin\System.Web.Helpers.dll
+C:\Program Net\VS\VS-15\MVC\MVCDemo\MVCWebDemo\bin\System.Web.Mvc.dll
+C:\Program Net\VS\VS-15\MVC\MVCDemo\MVCWebDemo\bin\System.Web.Razor.dll
+C:\Program Net\VS\VS-15\MVC\MVCDemo\MVCWebDemo\bin\System.Web.Webpages.Deployment.dll
+C:\Program Net\VS\VS-15\MVC\MVCDemo\MVCWebDemo\bin\System.Web.Webpages.dll
+C:\Program Net\VS\VS-15\MVC\MVCDemo\MVCWebDemo\bin\System.Web.Webpages.Razor.dll
+C:\Program Net\VS\VS-15\MVC\MVCDemo\MVCWebDemo\bin\Microsoft.AI.DependencyCollector.xml
+C:\Program Net\VS\VS-15\MVC\MVCDemo\MVCWebDemo\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Program Net\VS\VS-15\MVC\MVCDemo\MVCWebDemo\bin\Microsoft.AI.Web.xml
+C:\Program Net\VS\VS-15\MVC\MVCDemo\MVCWebDemo\bin\Microsoft.AI.WindowsServer.xml
+C:\Program Net\VS\VS-15\MVC\MVCDemo\MVCWebDemo\bin\Microsoft.ApplicationInsights.xml
+C:\Program Net\VS\VS-15\MVC\MVCDemo\MVCWebDemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Program Net\VS\VS-15\MVC\MVCDemo\MVCWebDemo\bin\System.Web.Razor.xml
+C:\Program Net\VS\VS-15\MVC\MVCDemo\MVCWebDemo\bin\System.Web.Webpages.xml
+C:\Program Net\VS\VS-15\MVC\MVCDemo\MVCWebDemo\bin\System.Web.Webpages.Deployment.xml
+C:\Program Net\VS\VS-15\MVC\MVCDemo\MVCWebDemo\bin\System.Web.Webpages.Razor.xml
+C:\Program Net\VS\VS-15\MVC\MVCDemo\MVCWebDemo\bin\System.Web.Helpers.xml
+C:\Program Net\VS\VS-15\MVC\MVCDemo\MVCWebDemo\bin\System.Web.Mvc.xml
+C:\Program Net\VS\VS-15\MVC\MVCDemo\MVCWebDemo\obj\Debug\MVCWebDemo.csprojResolveAssemblyReference.cache
+C:\Program Net\VS\VS-15\MVC\MVCDemo\MVCWebDemo\obj\Debug\MVCWebDemo.dll
+C:\Program Net\VS\VS-15\MVC\MVCDemo\MVCWebDemo\obj\Debug\MVCWebDemo.pdb
+C:\Sanjay\VS-2019\VS-15\MVC\MVCDemo\MVCWebDemo\bin\ApplicationInsights.config
+C:\Sanjay\VS-2019\VS-15\MVC\MVCDemo\MVCWebDemo\bin\roslyn\csc.exe
+C:\Sanjay\VS-2019\VS-15\MVC\MVCDemo\MVCWebDemo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Sanjay\VS-2019\VS-15\MVC\MVCDemo\MVCWebDemo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Sanjay\VS-2019\VS-15\MVC\MVCDemo\MVCWebDemo\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Sanjay\VS-2019\VS-15\MVC\MVCDemo\MVCWebDemo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Sanjay\VS-2019\VS-15\MVC\MVCDemo\MVCWebDemo\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Sanjay\VS-2019\VS-15\MVC\MVCDemo\MVCWebDemo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Sanjay\VS-2019\VS-15\MVC\MVCDemo\MVCWebDemo\bin\roslyn\System.Collections.Immutable.dll
+C:\Sanjay\VS-2019\VS-15\MVC\MVCDemo\MVCWebDemo\bin\roslyn\System.Reflection.Metadata.dll
+C:\Sanjay\VS-2019\VS-15\MVC\MVCDemo\MVCWebDemo\bin\roslyn\vbc.exe
+C:\Sanjay\VS-2019\VS-15\MVC\MVCDemo\MVCWebDemo\bin\roslyn\VBCSCompiler.exe
+C:\Sanjay\VS-2019\VS-15\MVC\MVCDemo\MVCWebDemo\bin\roslyn\VBCSCompiler.exe.config
+C:\Sanjay\VS-2019\VS-15\MVC\MVCDemo\MVCWebDemo\bin\MVCWebDemo.dll.config
+C:\Sanjay\VS-2019\VS-15\MVC\MVCDemo\MVCWebDemo\bin\MVCWebDemo.dll
+C:\Sanjay\VS-2019\VS-15\MVC\MVCDemo\MVCWebDemo\bin\MVCWebDemo.pdb
+C:\Sanjay\VS-2019\VS-15\MVC\MVCDemo\MVCWebDemo\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Sanjay\VS-2019\VS-15\MVC\MVCDemo\MVCWebDemo\bin\Microsoft.AI.DependencyCollector.dll
+C:\Sanjay\VS-2019\VS-15\MVC\MVCDemo\MVCWebDemo\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Sanjay\VS-2019\VS-15\MVC\MVCDemo\MVCWebDemo\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Sanjay\VS-2019\VS-15\MVC\MVCDemo\MVCWebDemo\bin\Microsoft.AI.Web.dll
+C:\Sanjay\VS-2019\VS-15\MVC\MVCDemo\MVCWebDemo\bin\Microsoft.AI.WindowsServer.dll
+C:\Sanjay\VS-2019\VS-15\MVC\MVCDemo\MVCWebDemo\bin\Microsoft.ApplicationInsights.dll
+C:\Sanjay\VS-2019\VS-15\MVC\MVCDemo\MVCWebDemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Sanjay\VS-2019\VS-15\MVC\MVCDemo\MVCWebDemo\bin\Microsoft.Web.Infrastructure.dll
+C:\Sanjay\VS-2019\VS-15\MVC\MVCDemo\MVCWebDemo\bin\System.Web.Helpers.dll
+C:\Sanjay\VS-2019\VS-15\MVC\MVCDemo\MVCWebDemo\bin\System.Web.Mvc.dll
+C:\Sanjay\VS-2019\VS-15\MVC\MVCDemo\MVCWebDemo\bin\System.Web.Razor.dll
+C:\Sanjay\VS-2019\VS-15\MVC\MVCDemo\MVCWebDemo\bin\System.Web.Webpages.Deployment.dll
+C:\Sanjay\VS-2019\VS-15\MVC\MVCDemo\MVCWebDemo\bin\System.Web.Webpages.dll
+C:\Sanjay\VS-2019\VS-15\MVC\MVCDemo\MVCWebDemo\bin\System.Web.Webpages.Razor.dll
+C:\Sanjay\VS-2019\VS-15\MVC\MVCDemo\MVCWebDemo\bin\Microsoft.AI.DependencyCollector.xml
+C:\Sanjay\VS-2019\VS-15\MVC\MVCDemo\MVCWebDemo\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Sanjay\VS-2019\VS-15\MVC\MVCDemo\MVCWebDemo\bin\Microsoft.AI.Web.xml
+C:\Sanjay\VS-2019\VS-15\MVC\MVCDemo\MVCWebDemo\bin\Microsoft.AI.WindowsServer.xml
+C:\Sanjay\VS-2019\VS-15\MVC\MVCDemo\MVCWebDemo\bin\Microsoft.ApplicationInsights.xml
+C:\Sanjay\VS-2019\VS-15\MVC\MVCDemo\MVCWebDemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Sanjay\VS-2019\VS-15\MVC\MVCDemo\MVCWebDemo\bin\System.Web.Razor.xml
+C:\Sanjay\VS-2019\VS-15\MVC\MVCDemo\MVCWebDemo\bin\System.Web.Webpages.xml
+C:\Sanjay\VS-2019\VS-15\MVC\MVCDemo\MVCWebDemo\bin\System.Web.Webpages.Deployment.xml
+C:\Sanjay\VS-2019\VS-15\MVC\MVCDemo\MVCWebDemo\bin\System.Web.Webpages.Razor.xml
+C:\Sanjay\VS-2019\VS-15\MVC\MVCDemo\MVCWebDemo\bin\System.Web.Helpers.xml
+C:\Sanjay\VS-2019\VS-15\MVC\MVCDemo\MVCWebDemo\bin\System.Web.Mvc.xml
+C:\Sanjay\VS-2019\VS-15\MVC\MVCDemo\MVCWebDemo\obj\Debug\MVCWebDemo.csprojResolveAssemblyReference.cache
+C:\Sanjay\VS-2019\VS-15\MVC\MVCDemo\MVCWebDemo\obj\Debug\MVCWebDemo.dll
+C:\Sanjay\VS-2019\VS-15\MVC\MVCDemo\MVCWebDemo\obj\Debug\MVCWebDemo.pdb
