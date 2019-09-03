@@ -1,0 +1,5 @@
+C:\Git-Repository\MVCDemo\MVCDemo\ImportExcelToSQLServerDemo\bin\x86\Debug\ImportExcelToSQLServerDemo.exe.config
+C:\Git-Repository\MVCDemo\MVCDemo\ImportExcelToSQLServerDemo\bin\x86\Debug\ImportExcelToSQLServerDemo.exe
+C:\Git-Repository\MVCDemo\MVCDemo\ImportExcelToSQLServerDemo\bin\x86\Debug\ImportExcelToSQLServerDemo.pdb
+C:\Git-Repository\MVCDemo\MVCDemo\ImportExcelToSQLServerDemo\obj\x86\Debug\ImportExcelToSQLServerDemo.exe
+C:\Git-Repository\MVCDemo\MVCDemo\ImportExcelToSQLServerDemo\obj\x86\Debug\ImportExcelToSQLServerDemo.pdb
